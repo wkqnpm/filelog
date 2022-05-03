@@ -1,11 +1,4 @@
-/*
- * @Descripttion:
- * @version:
- * @Author: wkq
- * @Date: 2022-05-01 14:25:29
- * @LastEditors: Please set LastEditors
- * @LastEditTime: 2022-05-02 08:47:48
- */
+
 package consolelog
 
 import (
